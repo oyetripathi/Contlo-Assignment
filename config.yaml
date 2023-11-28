@@ -1,0 +1,8 @@
+vocab_size: 50257
+n_positions: 1024
+n_ctx: 1024
+n_embed: 768
+n_layer: 12
+n_heads: 12
+layer_norm_epsilon: 0.00005
+initializer_range: 0.02
